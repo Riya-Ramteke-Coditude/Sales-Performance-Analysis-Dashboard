@@ -96,7 +96,7 @@ Created the following pivot tables:
 
 ##  Dashboard Preview
 
-Dashboard.png
+![Dashboard Preview](Dashboard.png)
 
 ---
 
